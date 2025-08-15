@@ -1,0 +1,27 @@
+First Game ideas
+    Tic Tac Toe
+    Connect Four
+    Snake
+    Chess/Checkers
+    Chinese Checkers
+    Google dino game Type beat
+--------------------------------------------------------------------------------    
+
+Start with Tic Tac Toe
+    Learn Rust
+    Could use MVC design pattern as reference
+
+    Seperate Window     *What gui things for rust are there
+        IDisplay component
+    Board
+        Display component 
+        model
+        view
+        controller 
+    Game Pieces
+        Display component       *not sure this is needed because it goes on board 
+       
+        
+        Event listeners/on clicks etc etc
+        
+ 
